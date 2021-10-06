@@ -2,9 +2,6 @@
 # Flask Minecraft Server data
 A Python script for getting your Minecraft Server information
 
-# Code of Conduct 
-You can view the CoC <a href="CODE_OF_CONDUCT.md">here</a>
-
 # License
 You can view the License <a href="LICENSE">here</a>
 
